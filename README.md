@@ -11,7 +11,7 @@ Student of Hangzhou Dianzi University, I study Computer Science (at home with go
 - Learning and exploring UX/UI design.
 - Sometimes life makes me to play with Node.js and MERN stuff.
 
-**Tool kit:**
+**My kit:**
 
 <p align="left">
   <code><img src="https://github.com/vorillaz/devicons/blob/master/!SVG/javascript_1.svg" alt="javascript" width="50" height="50"/></code>&nbsp;
@@ -21,7 +21,6 @@ Student of Hangzhou Dianzi University, I study Computer Science (at home with go
   <code><img src="https://github.com/vorillaz/devicons/blob/master/!SVG/nodejs.svg" alt="nodejs" width="50" height="50" /></code>&nbsp;
   <code><img src="https://github.com/vorillaz/devicons/blob/master/!SVG/react.svg" alt="react" width="50" height="50" /></code>&nbsp;
   <code><img src="https://github.com/vorillaz/devicons/blob/master/!SVG/mongodb.svg" alt="mongodb" width="50" height="50" /></code>&nbsp;
-  <code><img src="https://github.com/vorillaz/devicons/blob/master/!SVG/wordpress.svg" alt="wordpress" width="50" height="50" /></code>&nbsp;
   <code><img src="https://github.com/vorillaz/devicons/blob/master/!SVG/git.svg" alt="git" width="50" height="50" /></code>&nbsp;
 
 **Connect with me:**
