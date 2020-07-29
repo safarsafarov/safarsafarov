@@ -14,16 +14,16 @@ Student of Hangzhou Dianzi University, I study Computer Science (at home with go
 **Tool kit:**
 
 <p align="left">
-<code><img src="https://github.com/vorillaz/devicons/blob/master/!SVG/javascript.svg" alt="swift" width="50" height="50"/></code>&nbsp;
-<code><img src="https://github.com/vorillaz/devicons/blob/master/!SVG/python.svg" alt="swift" width="50" height="50"/></code>&nbsp;
+  <code><img src="https://github.com/vorillaz/devicons/blob/master/!SVG/javascript.svg" alt="swift" width="50" height="50"/></code>&nbsp;
+  <code><img src="https://github.com/vorillaz/devicons/blob/master/!SVG/python.svg" alt="swift" width="50" height="50"/></code>&nbsp;
   <code><img src="https://github.com/vorillaz/devicons/blob/master/!SVG/swift.svg" alt="swift" width="50" height="50"/></code>&nbsp;
-  <code><img src="https://github.com/vorillaz/devicons/blob/master/!SVG/c.svg" alt="C" width="50" height="50" /></code>&nbsp;
   <code><img src="https://github.com/vorillaz/devicons/blob/master/!SVG/docker.svg" alt="C" width="40" height="50" /></code>&nbsp;
   <code><img src="https://github.com/vorillaz/devicons/blob/master/!SVG/nodejs.svg" alt="C" width="50" height="50" /></code>&nbsp;
   <code><img src="https://github.com/vorillaz/devicons/blob/master/!SVG/react.svg" alt="C" width="50" height="50" /></code>&nbsp;
   <code><img src="https://github.com/vorillaz/devicons/blob/master/!SVG/mongodb.svg" alt="C" width="50" height="50" /></code>&nbsp;
   <code><img src="https://github.com/vorillaz/devicons/blob/master/!SVG/wordpress.svg" alt="C" width="50" height="50" /></code>&nbsp;
   <code><img src="https://github.com/vorillaz/devicons/blob/master/!SVG/git.svg" alt="C" width="50" height="50" /></code>&nbsp;
+
 **Connect with me:**
 
 <p align="left">
