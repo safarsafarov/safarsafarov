@@ -2,6 +2,8 @@
 
 ### I'm Safar Safarov
 
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/konpa/devicon@master/devicon.min.css">
+
 Student of Hangzhou Dianzi University, I study Computer Science (at home with google 😋) 👨🏻‍💻
 
 <img align="right" alt="GIF" src="https://github.com/VatanaChhorn/VatanaChhorn/blob/master/image_processing20200107-3552-13pkkb4.gif" width="400" height="300" />
@@ -24,13 +26,14 @@ Since the world is in the quarantine stage, and I’m having tremendous of spare
 - Adopting the minimalism life style
 - 🔜
 
-**Languages and Frameworks:**
+**Tool kit:**
 
 <p align="left">
+<code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript_48x48.png" alt="swift" width="40" height="40"/></code>&nbsp;
+<code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_48x48.png" alt="swift" width="40" height="40"/></code>&nbsp;
   <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/swift/swift_48x48.png" alt="swift" width="40" height="40"/></code>&nbsp;
   <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/c/c_48x48.png" alt="C" width="40" height="40" /></code>&nbsp;
-  <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" width="40" height="40" /></code>&nbsp;
-   </p>
+  <i class="devicon-docker-plain colored"></i>
 
 **Connect with me:**
 
@@ -53,5 +56,3 @@ Do ⭐ my repository if you find my project interesting, at least your star coul
 ### Credit to
 
 - Mandragora Estudio **for GIF**.
-
-https://dribbble.com/shots/9344637-working-hard
