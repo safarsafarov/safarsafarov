@@ -14,12 +14,16 @@ Student of Hangzhou Dianzi University, I study Computer Science (at home with go
 **Tool kit:**
 
 <p align="left">
-<code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript_48x48.png" alt="swift" width="40" height="40"/></code>&nbsp;
-<code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_48x48.png" alt="swift" width="40" height="40"/></code>&nbsp;
-  <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/swift/swift_48x48.png" alt="swift" width="40" height="40"/></code>&nbsp;
-  <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/c/c_48x48.png" alt="C" width="40" height="40" /></code>&nbsp;
-  <code><img src="https://github.com/vorillaz/devicons/blob/master/!SVG/docker.svg" alt="C" width="40" height="40" /></code>&nbsp;
-
+<code><img src="https://github.com/vorillaz/devicons/blob/master/!SVG/javascript.svg" alt="swift" width="50" height="50"/></code>&nbsp;
+<code><img src="https://github.com/vorillaz/devicons/blob/master/!SVG/python.svg" alt="swift" width="50" height="50"/></code>&nbsp;
+  <code><img src="https://github.com/vorillaz/devicons/blob/master/!SVG/swift.svg" alt="swift" width="50" height="50"/></code>&nbsp;
+  <code><img src="https://github.com/vorillaz/devicons/blob/master/!SVG/c.svg" alt="C" width="50" height="50" /></code>&nbsp;
+  <code><img src="https://github.com/vorillaz/devicons/blob/master/!SVG/docker.svg" alt="C" width="40" height="50" /></code>&nbsp;
+  <code><img src="https://github.com/vorillaz/devicons/blob/master/!SVG/nodejs.svg" alt="C" width="50" height="50" /></code>&nbsp;
+  <code><img src="https://github.com/vorillaz/devicons/blob/master/!SVG/react.svg" alt="C" width="50" height="50" /></code>&nbsp;
+  <code><img src="https://github.com/vorillaz/devicons/blob/master/!SVG/mongodb.svg" alt="C" width="50" height="50" /></code>&nbsp;
+  <code><img src="https://github.com/vorillaz/devicons/blob/master/!SVG/wordpress.svg" alt="C" width="50" height="50" /></code>&nbsp;
+  <code><img src="https://github.com/vorillaz/devicons/blob/master/!SVG/git.svg" alt="C" width="50" height="50" /></code>&nbsp;
 **Connect with me:**
 
 <p align="left">
@@ -37,7 +41,3 @@ Do ⭐ my repository if you find my project interesting, at least your star coul
 ![Safar's Github stats](https://github-readme-stats.vercel.app/api?username=safarsafarov&show_icons=true)
 
 ---
-
-### Credit to
-
-- Mandragora Estudio **for GIF**.
