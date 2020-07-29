@@ -18,7 +18,7 @@ Student of Hangzhou Dianzi University, I study Computer Science (at home with go
 <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_48x48.png" alt="swift" width="40" height="40"/></code>&nbsp;
   <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/swift/swift_48x48.png" alt="swift" width="40" height="40"/></code>&nbsp;
   <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/c/c_48x48.png" alt="C" width="40" height="40" /></code>&nbsp;
-  <code><img src="https://github.com/vorillaz/devicons/blob/master/!PNG/aws.png" alt="C" width="40" height="40" /></code>&nbsp;
+  <code><img src="https://github.com/vorillaz/devicons/blob/master/!SVG/docker.svg" alt="C" width="40" height="40" /></code>&nbsp;
 
 **Connect with me:**
 
