@@ -53,5 +53,3 @@ Do ⭐ my repository if you find my project interesting, at least your star coul
 ### Credit to
 
 - Mandragora Estudio **for GIF**.
-
-https://dribbble.com/shots/9344637-working-hard
