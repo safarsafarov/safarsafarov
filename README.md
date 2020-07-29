@@ -1,4 +1,4 @@
-# Whussup people👋
+# Welcome to my github profile 🙋🏻‍♂️
 
 ### I'm Safar Safarov
 
