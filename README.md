@@ -11,17 +11,6 @@ Student of Hangzhou Dianzi University, I study Computer Science (at home with go
 - Learning and exploring UX/UI design.
 - Sometimes life makes me to play with Node.js and MERN stuff.
 
-### 🌱 Challenges that I’m currently challenging myself:
-
-Since the world is in the quarantine stage, and I’m having tremendous of spare time, I decided to take this time focusing on feeding more knowledge to myself. I set a couple of self-challenges in order to push myself more further.
-
-- Learn to code 6-9 hours a day with no distraction ( One or two day off a week. )
-- Read a book a week
-- Workout 3 days in a row and take a day break
-- Avoid the over using social media
-- Adopting the minimalism life style
-- 🔜
-
 **Tool kit:**
 
 <p align="left">
@@ -45,7 +34,7 @@ Do ⭐ my repository if you find my project interesting, at least your star coul
 
 <img src="https://komarev.com/ghpvc/?username=safarsafarov" alt="safarsafarov" />
 
-![Vatana's Github stats](https://github-readme-stats.vercel.app/api?username=safarsafarov&show_icons=true)
+![Safar's Github stats](https://github-readme-stats.vercel.app/api?username=safarsafarov&show_icons=true)
 
 ---
 
