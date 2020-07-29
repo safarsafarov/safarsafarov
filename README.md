@@ -2,8 +2,6 @@
 
 ### I'm Safar Safarov
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/konpa/devicon@master/devicon.min.css">
-
 Student of Hangzhou Dianzi University, I study Computer Science (at home with google 😋) 👨🏻‍💻
 
 <img align="right" alt="GIF" src="https://github.com/VatanaChhorn/VatanaChhorn/blob/master/image_processing20200107-3552-13pkkb4.gif" width="400" height="300" />
@@ -33,7 +31,7 @@ Since the world is in the quarantine stage, and I’m having tremendous of spare
 <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_48x48.png" alt="swift" width="40" height="40"/></code>&nbsp;
   <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/swift/swift_48x48.png" alt="swift" width="40" height="40"/></code>&nbsp;
   <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/c/c_48x48.png" alt="C" width="40" height="40" /></code>&nbsp;
-  <i class="devicon-docker-plain colored"></i>
+  <code><img src="https://github.com/vorillaz/devicons/tree/master/!PNG/aws" alt="C" width="40" height="40" /></code>&nbsp;
 
 **Connect with me:**
 
