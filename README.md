@@ -4,7 +4,11 @@
 
 Student of Hangzhou Dianzi University, I study Computer Science (at home with google 😋) 👨🏻‍💻
 
+<<<<<<< HEAD
 ### 💼 Things that keeps me busy:
+=======
+### 💼 Things that I'm currently working on:
+>>>>>>> 93e00cb62e2045843a4cc639c989729cbef6b5ef
 
 - Doing bachelor's degree in Computer Science
 - Taking a Swift Online Course, and looking forward to contribute to any iOS open source project.
