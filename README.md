@@ -2,20 +2,16 @@
 
 ### I'm Safar Safarov
 
-Student of Hangzhou Dianzi University, I study Computer Science (at home with google 😋) 👨🏻‍💻
+Student of **Hangzhou Dianzi University**, I study **Computer Science** (to be honest I learn everything from internet, but it's secret 😋) 👨🏻‍💻
 
-<<<<<<< HEAD
-### 💼 Things that keeps me busy:
-=======
-### 💼 Things that I'm currently working on:
->>>>>>> 93e00cb62e2045843a4cc639c989729cbef6b5ef
+### Things that keeps me busy:
 
 - Doing bachelor's degree in Computer Science
 - Taking a Swift Online Course, and looking forward to contribute to any iOS open source project.
 - Learning and exploring UX/UI design.
 - Sometimes life makes me to play with Node.js and MERN stuff.
 
-**My kit:**
+### My kit:
 
 <p align="left">
   <code><img src="https://github.com/vorillaz/devicons/blob/master/!SVG/javascript_1.svg" alt="javascript" width="50" height="50"/></code>&nbsp;
@@ -27,7 +23,7 @@ Student of Hangzhou Dianzi University, I study Computer Science (at home with go
   <code><img src="https://github.com/vorillaz/devicons/blob/master/!SVG/mongodb.svg" alt="mongodb" width="50" height="50" /></code>&nbsp;
   <code><img src="https://github.com/vorillaz/devicons/blob/master/!SVG/git.svg" alt="git" width="50" height="50" /></code>&nbsp;
 
-**Connect with me:**
+### Connect with me:
 
 <p align="left">
 <a href="https://www.instagram.com/code_storm/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kushal.bhanot" height="40" width="40" /></a> &nbsp;&nbsp;
