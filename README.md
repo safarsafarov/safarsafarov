@@ -57,13 +57,8 @@ Student of **Hangzhou Dianzi University**, I study **Computer Science** (tbh, I 
 
 Do ⭐ my repository if you find my project interesting, at least your star could make someone's day.
 
-  <img src="https://komarev.com/ghpvc/?username=safarsafarov" alt="safarsafarov" />
-  <a href="https://github.com/safarsafarov">
+ <a href="https://github.com/safarsafarov">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=safarsafarov&theme=radical&hide=glsl,python" />
-  </a>
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=safarsafarov&&sho
-
-![Safar's Github stats](https://github-readme-stats.vercel.app/api?username=safarsafarov&show_icons=true)
-
----
+<img src="https://github-readme-stats.vercel.app/api?username=safarsafarov&&show_icons=true&theme=radical&line_height=27&v=5" alt="Ashwani's GitHub Stats" />
