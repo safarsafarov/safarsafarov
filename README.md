@@ -59,7 +59,10 @@ Student of **Hangzhou Dianzi University**, I study **Computer Science** (tbh, I 
 
 <hr>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=safarsafarov&&show_icons=true&line_height=27&v=5" alt="Safar's GitHub Stats" /> 
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=safarsafarov&layout=compact)](https://github.com/safarsafarov/github-readme-stats" />
+ <a href="https://github.com/safarsafarov/github-readme-stats">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=safarsafarov&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/safarsafarov/convoychat">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
+</a>
  
