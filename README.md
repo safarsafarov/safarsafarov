@@ -4,7 +4,7 @@
 
 Student of **Hangzhou Dianzi University**, I study **Computer Science** (tbh, I learn everything on internet 😋) 👨🏻‍💻
 
-### Things that keeps me busy:
+### What makes me busy every single day:
 
 - Doing bachelor's degree in Computer Science
 - Taking a Swift Online Course, and looking forward to contribute to any iOS open source project.
