@@ -18,7 +18,8 @@ Student of **Hangzhou Dianzi University**, I study **Computer Science** (tbh, I 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![Swift](https://img.shields.io/badge/-Swift-00599C?style=flat-square&logo=swift)
+![C](https://img.shields.io/badge/-00599C?style=flat-square&logo=c)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
@@ -78,8 +79,5 @@ Student of **Hangzhou Dianzi University**, I study **Computer Science** (tbh, I 
 
  <a href="https://github.com/safarsafarov/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=safarsafarov&layout=compact)](https://github.com/safarsafarov/github-readme-stats" />
-</a>
-<a href="https://github.com/safarsafarov/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=safarsafarov&show_icons=true" />
 </a>
  
