@@ -12,10 +12,27 @@ Student of **Hangzhou Dianzi University**, I study **Computer Science** (tbh, I 
 - Tech related: Books, Podcasts, Youtube videos, Blog posts.
 - Sometimes life makes me to play with Node.js and MERN stuff.
 
-### My kit:
+### Technologies:
 
-<p align="left">
-  <code><img src="https://github.com/vorillaz/devicons/blob/master/!SVG/javascript_1.svg" alt="javascript" width="50"
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
+![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+  <!-- <code><img src="https://github.com/vorillaz/devicons/blob/master/!SVG/javascript_1.svg" alt="javascript" width="50"
       height="50" /></code>&nbsp;
   <code><img src="https://github.com/vorillaz/devicons/blob/master/!SVG/python.svg" alt="python" width="50"
       height="50" /></code>&nbsp;
@@ -30,7 +47,7 @@ Student of **Hangzhou Dianzi University**, I study **Computer Science** (tbh, I 
   <code><img src="https://github.com/vorillaz/devicons/blob/master/!SVG/mongodb.svg" alt="mongodb" width="50"
       height="50" /></code>&nbsp;
   <code><img src="https://github.com/vorillaz/devicons/blob/master/!SVG/git.svg" alt="git" width="50"
-      height="50" /></code>&nbsp;
+      height="50" /></code>&nbsp; -->
 
 ### Connect with me:
 
