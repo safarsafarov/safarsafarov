@@ -1,10 +1,10 @@
-# Welcome to my github profile 🙋🏻‍♂️
+# Welcome to my Github profile 🙋🏻‍♂️
 
 ### I'm Safar Safarov
 
 Student of **Hangzhou Dianzi University**, I study **Computer Science** (tbh, I learn everything on internet 😋) 👨🏻‍💻
 
-### What makes me busy every single day:
+### What makes stay busy every single day:
 
 - Doing bachelor's degree in Computer Science
 - Taking a Swift Online Course, and looking forward to contribute to any iOS open source project.
@@ -37,7 +37,7 @@ Student of **Hangzhou Dianzi University**, I study **Computer Science** (tbh, I 
 ### Social Media:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/safarmurod-safarov-085496160/)](https://www.linkedin.com/in/safarmurod-safarov-085496160/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/code_storm/)](https://instagram.com/kanna6501)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/code_storm/)](https://instagram.com/code_storm/)
 [![Medium Badge](https://img.shields.io/badge/-Medium-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@safarslife/)](https://medium.com/@safarslife)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:safarov7safar@gmail.com)](mailto:safarov7safar@gmail.com)
 
