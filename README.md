@@ -41,14 +41,6 @@ Student of **Hangzhou Dianzi University**, I study **Computer Science** (tbh, I 
 [![Medium Badge](https://img.shields.io/badge/-Medium-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@safarslife/)](https://medium.com/@safarslife)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:safarov7safar@gmail.com)](mailto:safarov7safar@gmail.com)
 
-### Pinned repos:
-[![Swift](https://github-readme-stats.vercel.app/api/pin/?username=safarsafarov&repo=Quizzler-ios13&show_owner=true)](https://github.com/safarsafarov/https://github.com/safarsafarov/Quizzler-iOS13)
-[![Swift](https://github-readme-stats.vercel.app/api/pin/?username=safarsafarov&repo=Xylophone-iOS13&show_owner=true)](https://github.com/safarsafarov/https://github.com/safarsafarov/Xylophone-iOS13)
-[![Swift](https://github-readme-stats.vercel.app/api/pin/?username=safarsafarov&repo=EggTimer-iOS13&show_owner=true)](https://github.com/safarsafarov/https://github.com/safarsafarov/EggTimer-iOS13)
-[![Swift](https://github-readme-stats.vercel.app/api/pin/?username=safarsafarov&repo=Magic-8-Ball-iOS13&show_owner=true)](https://github.com/safarsafarov/https://github.com/safarsafarov/Magic-8-Ball-iOS13)
-[![Swift](https://github-readme-stats.vercel.app/api/pin/?username=safarsafarov&repo=Destini-iOS13&show_owner=true)](https://github.com/safarsafarov/https://github.com/safarsafarov/Destini-iOS13)
-[![Swift](https://github-readme-stats.vercel.app/api/pin/?username=safarsafarov&repo=BMI-Calculator-iOS13&show_owner=true)](https://github.com/safarsafarov/https://github.com/safarsafarov/BMI-Calculator-iOS13)
-
 <p>Do ⭐ my repository if you find my project interesting, at least your star could make someone's day.</p>
 
 <hr>
