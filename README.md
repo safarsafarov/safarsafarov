@@ -41,6 +41,9 @@ Student of **Hangzhou Dianzi University**, I study **Computer Science** (tbh, I 
 [![Medium Badge](https://img.shields.io/badge/-Medium-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@safarslife/)](https://medium.com/@safarslife)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:safarov7safar@gmail.com)](mailto:safarov7safar@gmail.com)
 
+### Pinned repos:
+[![Reactjs](https://github-readme-stats.vercel.app/api/pin/?username=facebook&repo=react&show_owner=true)](https://github.com/facebook/react)
+
 <p>Do ⭐ my repository if you find my project interesting, at least your star could make someone's day.</p>
 
 <hr>
