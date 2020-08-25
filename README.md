@@ -1,4 +1,6 @@
-<img src="1.png">
+<div align="center">
+	<img src="https://github.com/safarsafarov/safarsafarov/blob/master/1.png">	
+</div>
 
 ### I'm Safar Safarov
 
