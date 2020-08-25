@@ -46,7 +46,6 @@ Student of **Hangzhou Dianzi University**, I study **Computer Science** (tbh, I 
 </div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safarsafarov&theme=dracula&layout=compact&card_width=300" alt="Safar's Top Langs" height="175px" />
-  <a href="https://seognil-craft.github.io/qlocktwo"><img src="https://github.com/seognil-craft/qlocktwo/blob/master/demo-preview.png?raw=true" alt="qlocktwo preview" height="175px"/></a>
 </div>
 
 <p>Do ⭐ my repository if you find my project interesting, at least your star could make someone's day.</p>
