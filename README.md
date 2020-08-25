@@ -44,7 +44,7 @@ Student of **Hangzhou Dianzi University**, I study **Computer Science** (tbh, I 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:safarov7safar@gmail.com)](mailto:safarov7safar@gmail.com)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=safarsafarov&show_icons=true&theme=tokyonight&hide_title=true" alt="Seognil's github stats" height="195px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=safarsafarov&show_icons=true&hide_title=true" alt="Seognil's github stats" height="195px" />
 </div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safarsafarov&theme=dracula&layout=compact&card_width=300" alt="Safar's Top Langs" height="175px" />
