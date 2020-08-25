@@ -46,9 +46,6 @@ Student of **Hangzhou Dianzi University**, I study **Computer Science** (tbh, I 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=safarsafarov&show_icons=true&hide_title=true" alt="Seognil's github stats" height="195px" />
 </div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safarsafarov&theme=dracula&layout=compact&card_width=300" alt="Safar's Top Langs" height="175px" />
-</div>
 
 <p>Do ⭐ my repository if you find my project interesting, at least your star could make someone's day.</p>
 
