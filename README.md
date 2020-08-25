@@ -43,10 +43,6 @@ Student of **Hangzhou Dianzi University**, I study **Computer Science** (tbh, I 
 [![Medium Badge](https://img.shields.io/badge/-Medium-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@safarslife/)](https://medium.com/@safarslife)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:safarov7safar@gmail.com)](mailto:safarov7safar@gmail.com)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=safarsafarov&show_icons=true&hide_title=true" alt="Seognil's github stats" height="195px" />
-</div>
-
 <p>Do ⭐ my repository if you find my project interesting, at least your star could make someone's day.</p>
 
 <hr>
