@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="https://github.com/safarsafarov/safarsafarov/blob/master/1.png">	
+	<img src="https://github.com/safarsafarov/safarsafarov/blob/master/1.jpg">	
 </div>
 
 ### I'm Safar Safarov
