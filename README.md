@@ -1,5 +1,3 @@
-![ScreenShot](https://github.com/safarsafarov/safarsafarov/blob/master/1.jpg?raw=true)
-
 ### I'm Safar Safarov
 
 Student of **Hangzhou Dianzi University**, I study **Computer Science** (tbh, I learn everything on internet 😋) 👨🏻‍💻
