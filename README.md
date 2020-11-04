@@ -4,13 +4,13 @@ Student of **Hangzhou Dianzi University**, I study **Computer Science** (tbh, I 
 
 ### What makes stay busy every single day:
 
-- 👨🏻‍🎓 Doing bachelor's degree in Computer Science
-- 🐣 Taking a Swift Online Course, and looking forward to contribute to any iOS open source project.
-- 🎨 Learning and exploring UX/UI design.
-- 📕 Tech related: Books, Podcasts, Youtube videos, Blog posts.
-- 💜 Love Node.js, which means I prefer MERN as my stack.
-- 🤠 Fact: Anime is shit, change my mind.
-- 👽 Quote: Life fucks everone, you are not exception.
+-  Doing bachelor's degree in Computer Science
+-  Taking a Swift Online Course, and looking forward to contribute to any iOS open source project.
+-  Learning and exploring UX/UI design.
+-  Tech related: Books, Podcasts, Youtube videos, Blog posts.
+-  Love Node.js, which means I prefer MERN as my stack.
+-  Fact: Anime is shit, change my mind.
+-  Quote: Life fucks everone, you are not exception.
 
 ### Technologies:
 
