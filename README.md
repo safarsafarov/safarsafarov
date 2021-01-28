@@ -1,4 +1,5 @@
 ### I'm Safar Safarov
+![Metrics](https://metrics.lecoq.io/safarsafarov?template=classic&activity=1&isocalendar=1&tweets=1&languages=1&isocalendar.duration=full-year&tweets.limit=2&tweets.user=safarslife&activity.limit=5&activity.days=14&activity.filter=all&config.timezone=Asia%2FShanghai&config.animated=true)
 
 Student of **Hangzhou Dianzi University**, I study **Computer Science** (tbh, I learn everything on internet 😋) 👨🏻‍💻
 
