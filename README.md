@@ -1,4 +1,4 @@
-![Metrics](https://metrics.lecoq.io/safarsafarov?template=classic&isocalendar=1&languages=1&isocalendar.duration=full-year&config.timezone=Asia%2FShanghai&config.animated=true)
+![Metrics](https://metrics.lecoq.io/safarsafarov?template=classic&isocalendar=1&languages=1&pagespeed=1&posts=1&stars=1&isocalendar.duration=full-year&languages.ignored=HTML&languages.colors=github&languages.threshold=0%25&pagespeed.url=safarslife.dev&pagespeed.detailed=undefined&pagespeed.screenshot=true&posts.source=dev.to&posts.limit=3&posts.user=safarsafarov&stars.limit=4&config.timezone=Asia%2FShanghai&config.animated=true)
 
 Student of **Hangzhou Dianzi University**, I study **Computer Science** (tbh, I learn everything on internet 😋) 👨🏻‍💻
 
