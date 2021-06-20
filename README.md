@@ -1,46 +1,26 @@
-![Metrics](https://metrics.lecoq.io/safarsafarov?template=classic&isocalendar=1&languages=1&pagespeed=1&posts=1&stars=1&isocalendar.duration=full-year&languages.ignored=HTML&languages.colors=github&languages.threshold=0%25&pagespeed.url=safarslife.dev&pagespeed.detailed=undefined&pagespeed.screenshot=true&posts.source=dev.to&posts.limit=3&posts.user=safarsafarov&stars.limit=4&config.timezone=Asia%2FShanghai&config.animated=true)
+### Hi there 👋, my name is Safar
+#### I am junior iOS dev
+![I am junior iOS dev](https://www.fatalerrors.org/images/blog/53f32df02c01f053dc1957d7eb8d2172.jpg)
 
-Student of **Hangzhou Dianzi University**, I study **Computer Science** (tbh, I learn everything on internet 😋) 👨🏻‍💻
 
-### What makes stay busy every single day:
+- 🔭 I’m currently working on 100 days with SwiftUI 
+- 🌱 I’m currently learning e-commerce on mobile, UX/UI 
+- 🤔 I’m looking for help with Internships 
+- 📫 How to reach me: safarov.safar@hotmail.com 
 
--  Doing bachelor's degree in Computer Science
--  Taking a Swift Online Course, and looking forward to contribute to any iOS open source project.
--  Learning and exploring UX/UI design.
--  Tech related: Books, Podcasts, Youtube videos, Blog posts.
--  Love Node.js, which means I prefer MERN as my stack.
--  Fact: Anime is shit, change my mind.
--  Quote: Life fucks everone, you are not exception.
 
-### Technologies:
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/safarsafarov)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/https://dev.to/safarsafarov)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](https://hashnode.com/@codestorm)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/safarmurod-safarov-085496160//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/code_storm//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg' alt='spotify' height='40'>](https://twitter.com/safarslife)  
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Swift](https://img.shields.io/badge/-Swift-00599C?style=flat-square&logo=swift)
-![C](https://img.shields.io/badge/-00599C?style=flat-square&logo=c)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![Bootstrap](https://img.shields.io/badge/-materialize-563D7C?style=flat-square&logo=materialize)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
-![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
-### Social Media:
+[![trophy](https://github-profile-trophy.vercel.app/?username=safarsafarov)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/safarmurod-safarov-085496160/)](https://www.linkedin.com/in/safarmurod-safarov-085496160/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/code_storm/)](https://instagram.com/code_storm/)
-[![Medium Badge](https://img.shields.io/badge/-Medium-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@safarslife/)](https://medium.com/@safarslife)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:safarov7safar@gmail.com)](mailto:safarov7safar@gmail.com)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=safarsafarov&show_icons=true)  
 
-<p>Do ⭐ my repository if you find my project interesting, at least your star could make someone's day.</p>
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=safarsafarov)  
 
-<hr>
+![GitHub metrics](https://metrics.lecoq.io/safarsafarov)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=safarsafarov)  
+
+![Profile views](https://gpvc.arturio.dev/safarsafarov)  
