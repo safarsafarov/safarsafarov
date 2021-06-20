@@ -15,8 +15,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=safarsafarov)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=safarsafarov&show_icons=true)  
-
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=safarsafarov)  
 
 ![GitHub metrics](https://metrics.lecoq.io/safarsafarov)  
