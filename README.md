@@ -1,2 +1,2 @@
 ### Hi there 👋, my name is Safar
-#### I am junior iOS developer
+#### I am junior web/iOS developer
