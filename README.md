@@ -39,10 +39,6 @@ hobbies: ["CSGO", "Dota2", "Books"]
   </a>
 </p>
 
-<p align="center">
-  <img src="https://safarsafarov.vercel.app/api/top-played">
-</p>
-
 
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=safarsafarov&custom_title=Safar's%20activity%20graph&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
