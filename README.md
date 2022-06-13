@@ -1,4 +1,3 @@
-[![Actions Status](https://github.com/safarsafarov/safarsafarov/workflows/update-gh-activity/badge.svg)](https://github.com/safarsafarov/safarsafarov/actions)
 ![](https://visitor-badge.glitch.me/badge?page_id=safarsafarov.safarsafarov)
 
 <p align="center">
