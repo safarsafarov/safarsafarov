@@ -1,7 +1,6 @@
 
 
 <p align="center">
-<br/>
 <a href="https://www.linkedin.com/in/safarmurod-safarov-085496160/">
   <img alt="safarsafarov's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
 </a>
@@ -27,6 +26,7 @@ fields_of_interests: ["iOS Development", "Back-end Development", "Front-End Deve
 currently_learning: ["JavaScript"]
 hobbies: ["CSGO", "Dota2", "Books"]
 ```
+<p align="center">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
 
 
@@ -39,7 +39,7 @@ hobbies: ["CSGO", "Dota2", "Books"]
 
 
 <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
-
+</p>
 
 <p align="center">
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=71jk9rs40fqkp8r0by1ws1rgy&cover_image=true&theme=compact">
