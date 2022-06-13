@@ -1,4 +1,4 @@
-![](https://visitor-badge.glitch.me/badge?page_id=safarsafarov.safarsafarov)
+
 
 <p align="center">
 <br/>
@@ -42,7 +42,7 @@ hobbies: ["CSGO", "Dota2", "Books"]
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=safarsafarov&custom_title=Safar's%20activity%20graph&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue) ![](https://visitor-badge.glitch.me/badge?page_id=safarsafarov.safarsafarov)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-292%20Thousand%20lines%20of%20code-blue)
 
