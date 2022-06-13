@@ -1,2 +1,1 @@
-### Hi there 👋, my name is Safar
-#### I am junior web/iOS developer
+<img align="center" src="https://github-readme-stats.vercel.app/api/<top-langs>/?username=<safarsafarov>&theme=<THEME_NAME>" />
