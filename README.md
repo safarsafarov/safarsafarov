@@ -31,13 +31,6 @@ hobbies: ["Podcasts", "Books", "CSGO", "DOTA2"]
   <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
 </p>
 
-<p align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=71jk9rs40fqkp8r0by1ws1rgy&cover_image=true&theme=compact">
-    <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=71jk9rs40fqkp8r0by1ws1rgy&cover_image=true&theme=compact">
-  </a>
-</p>
-
-
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=safarsafarov&custom_title=Safar's%20activity%20graph&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:waka-->
