@@ -27,10 +27,19 @@ fields_of_interests: ["iOS Development", "Back-end Development", "Front-End Deve
 currently_learning: ["JavaScript"]
 hobbies: ["CSGO", "Dota2", "Books"]
 ```
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
 
-<p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=safarsafarov&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
-</p>
+
+<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
+
+
+<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
+
+<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
+
+
+<a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
+
 
 <p align="center">
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=71jk9rs40fqkp8r0by1ws1rgy&cover_image=true&theme=compact">
