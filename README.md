@@ -1,4 +1,3 @@
-[![Actions Status](https://github.com/safarsafarov/safarsafarov/workflows/wakatime-stats/badge.svg)](https://github.com/safarsafarov/safarsafarov/actions)
 [![Actions Status](https://github.com/safarsafarov/safarsafarov/workflows/update-gh-activity/badge.svg)](https://github.com/safarsafarov/safarsafarov/actions)
 ![](https://visitor-badge.glitch.me/badge?page_id=safarsafarov.safarsafarov)
 
@@ -45,7 +44,7 @@ hobbies: ["CSGO", "Dota2", "Books"]
 </p>
 
 
-[![activity graph](https://activity-graph.herokuapp.com/graph?username=safarsafarov&custom_title=Erwin's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![activity graph](https://activity-graph.herokuapp.com/graph?username=safarsafarov&custom_title=Safar's%20activity%20graph&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
