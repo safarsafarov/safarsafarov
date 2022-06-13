@@ -35,7 +35,7 @@ hobbies: ["CSGO", "Dota2", "Books"]
 
 <p align="center">
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=71jk9rs40fqkp8r0by1ws1rgy&cover_image=true&theme=compact">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=11147618695&cover_image=true&theme=default&bar_color=e3e3e3&bar_color_cover=true">
+    <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=71jk9rs40fqkp8r0by1ws1rgy&cover_image=true&theme=compact">
   </a>
 </p>
 
