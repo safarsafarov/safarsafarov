@@ -32,8 +32,6 @@ hobbies: ["Podcasts", "Books", "CSGO", "DOTA2"]
   <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
 </p>
 
-[![activity graph](https://activity-graph.herokuapp.com/graph?username=safarsafarov&custom_title=Safar's%20activity%20graph&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue) ![](https://visitor-badge.glitch.me/badge?page_id=safarsafarov.safarsafarov)
 
