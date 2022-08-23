@@ -1,43 +1,29 @@
-
-
-<p align="center">
-<a href="https://www.linkedin.com/in/safarmurod-safarov-085496160/">
-  <img alt="safarsafarov's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
-</a>
-<a href="https://www.instagram.com/safarslife">
-  <img alt="safarsafarov's Instagram" width="50px" src="https://user-images.githubusercontent.com/43545812/144035088-0dfb165f-8fe0-4d13-896c-876c29d2b128.png" />
-</a>
-<br>
-<img alt="Code Time" src="https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/1615?logoColor=white%26project=%26recentMS=0%26showProject=false" />
-</p>
-
 ```yaml
 name: Safar Safarov
 located_in: Uzbekistan, Tashkent
 from: Uzbekistan, Surkhandarya Region, Termez city
-job: CoFounder of startups
+job: CoFounder of startup
 education: ["Bachelor's in CS"]
 company: TwoLines LLC
 
 fields_of_interests: ["iOS Development", "Back-end Development", "Front-End Development"]
-currently_learning: ["JavaScript"]
-hobbies: ["Podcasts", "Books", "CSGO", "DOTA2"]
+currently_learning: ["iOS Development"]
+hobbies: ["Podcasts", "Books", "Photography", "CSGO", "DOTA2"]
 ```
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=safarsafarov&label=Profile%20views&color=0e75b6&style=flat" alt="safarsafarov" /> </p>
+
+<p align="center"> <a href="https://twitter.com/safarslife" target="blank"><img src="https://img.shields.io/twitter/follow/safarslife?logo=twitter&style=for-the-badge" alt="safarslife" /></a> </p>
+
+<h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
-  <a href="https://reactjs.org/" target="_blank"> <img alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
-  <a href="https://nodejs.org" target="_blank"><img alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" alt="git" height='42px'/> </a>
-  <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
+<a href="https://dev.to/safarsafarov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="safarsafarov" height="30" width="40" /></a>
+<a href="https://twitter.com/safarslife" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="safarslife" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/safarmurod-safarov-085496160" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="safarmurod-safarov-085496160" height="30" width="40" /></a>
+<a href="https://instagram.com/safarslife" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="safarslife" height="30" width="40" /></a>
 </p>
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue) ![](https://visitor-badge.glitch.me/badge?page_id=safarsafarov.safarsafarov)
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://realm.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="realm" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-292%20Thousand%20lines%20of%20code-blue)
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
-</p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=safarsafarov&" alt="safarsafarov" /></p>
