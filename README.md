@@ -10,6 +10,7 @@ fields_of_interests: ["iOS Development", "Back-end Development", "Front-End Deve
 currently_learning: ["iOS Development"]
 hobbies: ["Podcasts", "Books", "Photography", "CSGO", "DOTA2"]
 ```
+[![GitHub Streak](https://streak-stats.demolab.com?user=safarsafarov&theme=highcontrast&hide_border=true&border_radius=4.3)](https://git.io/streak-stats)
 
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=safarsafarov&label=Profile%20views&color=0e75b6&style=flat"
@@ -46,6 +47,3 @@ hobbies: ["Podcasts", "Books", "Photography", "CSGO", "DOTA2"]
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40" /> </a> 
             <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> 
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40" /> <a> </p>
-            
-            
-[![GitHub Streak](https://streak-stats.demolab.com?user=safarsafarov&theme=dark&hide_border=true&border_radius=4.3)](https://git.io/streak-stats)
