@@ -46,3 +46,6 @@ hobbies: ["Podcasts", "Books", "Photography", "CSGO", "DOTA2"]
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40" /> </a> 
             <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> 
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40" /> <a> </p>
+            
+            
+            [![GitHub Streak](https://streak-stats.demolab.com?user=safarsafarov&theme=dark&hide_border=true&border_radius=4.3)](https://git.io/streak-stats)
