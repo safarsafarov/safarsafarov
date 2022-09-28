@@ -11,7 +11,8 @@ currently_learning: ["iOS Development"]
 hobbies: ["Podcasts", "Books", "Photography", "CSGO", "DOTA2"]
 ```
 <p align="center">
-[![GitHub Streak](https://streak-stats.demolab.com?user=safarsafarov&theme=highcontrast&hide_border=true&border_radius=4.3)](https://git.io/streak-stats)
+    
+    [![GitHub Streak](https://streak-stats.demolab.com?user=safarsafarov&theme=highcontrast&hide_border=true&border_radius=4.3)](https://git.io/streak-stats)
 </p>
 
 <p align="left">
