@@ -8,7 +8,7 @@ company: TwoLines LLC
 
 fields_of_interests: ["iOS Development", "Back-end Development", "Front-End Development"]
 currently_learning: ["iOS Development"]
-hobbies: ["Podcasts", "Books", "Photography", "CSGO", "DOTA2"]
+hobbies: ["Podcasts", "Books", "Photography"]
 ```
 [![GitHub Streak](https://streak-stats.demolab.com?user=safarsafarov&theme=highcontrast&hide_border=true&border_radius=20.3)](https://git.io/streak-stats)
 
