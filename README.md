@@ -4,7 +4,7 @@ located_in: Uzbekistan, Tashkent
 from: Uzbekistan, Surkhandarya Region, Termez city
 job: CoFounder of startup
 education: ["Bachelor's in CS"]
-company: TwoLines LLC
+Looking for: Internship
 
 fields_of_interests: ["iOS Development", "Back-end Development", "Front-End Development"]
 currently_learning: ["iOS Development"]
