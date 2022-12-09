@@ -10,8 +10,6 @@ fields_of_interests: ["iOS Development", "Back-end Development", "Front-End Deve
 currently_learning: ["iOS Development"]
 hobbies: ["Podcasts", "Books", "Photography"]
 ```
-[![GitHub Streak](https://streak-stats.demolab.com?user=safarsafarov&theme=highcontrast&hide_border=true&border_radius=20.3)](https://git.io/streak-stats)
-
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=safarsafarov&label=Profile%20views&color=0e75b6&style=flat"
         alt="safarsafarov" />
